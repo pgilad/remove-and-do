@@ -1,6 +1,6 @@
 # remove-and-do
 
-> Remove a collection from context and run an action on removed item
+> Remove an item from a collection and run an action on removed item
 
 ## Installation
 
