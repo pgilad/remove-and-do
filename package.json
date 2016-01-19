@@ -1,0 +1,22 @@
+{
+  "name": "remove-and-do",
+  "description": "Remove a collection from context and run an action on removed item",
+  "version": "1.0.0",
+  "authors": [
+      "Gilad Peleg <giladp007@gmail.com> (http://giladpeleg.com)",
+      "Tobias Koppers @sokra"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": "remove, do, collection, action",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "pgilad/remove-and-do",
+  "scripts": {}
+}
